@@ -1,0 +1,28 @@
+This is a simple implementation of Tic Tac Teo game. 
+Version 0.1
+ - only support text terminal based interaction
+
+start game with python:
+
+$ python shell.py
+
+==================================
+  Welcome! Tic Tac Toe
+==================================
+
+ --- --- ---
+|   |   |   |
+ --- --- ---
+|   |   |   |
+ --- --- ---
+|   |   |   |
+ --- --- ---
+Now is your turn. Enter X coord (0-2): 0
+                  Enter Y coord (0-2): 0
+ --- --- ---
+| O |   |   |
+ --- --- ---
+|   |   |   |
+ --- --- ---
+|   |   |   |
+ --- --- ---
