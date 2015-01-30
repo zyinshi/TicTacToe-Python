@@ -1,7 +1,7 @@
 This is a simple implementation of Tic Tac Teo game. 
 Version 0.1
- - only support text terminal based interaction
-
+ - Only support text terminal based interaction
+ - Only one step guess. Without AI mechanism
 start game with python:
 
 $ python shell.py
